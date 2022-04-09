@@ -13,3 +13,6 @@ Generates the data .csv and images based on the current data. Note: before runni
 
 ### raw-formatted-data.csv
 This is the formatted data that has been used in the publication.
+
+### output 3.xlsx
+This file also contains the graphs used in the publication.
